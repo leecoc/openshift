@@ -1,2 +1,2 @@
-# v2ray 部署在 openshift starter
+# 学习v2ray 部署在 openshift starter
 
